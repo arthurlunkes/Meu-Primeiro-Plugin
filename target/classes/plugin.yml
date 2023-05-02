@@ -1,0 +1,7 @@
+name: Mypuglin
+version: '1.0-SNAPSHOT'
+main: com.arthur.teste.Mypuglin
+api-version: 1.19
+authors: [Arthur Lunkes]
+commands:
+  config:
